@@ -1,0 +1,62 @@
+{
+  "sections": [
+    {
+      "title": "Accueil",
+      "subs": [
+        {
+          "title": "Bienvenue",
+          "links": [
+            {
+              "contentType": "text",
+              "content": "<h1>Bienvenue sur mon portfolio</h1><p>Ceci est un exemple de contenu dynamique.</p>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mes Projets",
+      "subs": [
+        {
+          "title": "Projet 1",
+          "links": [
+            {
+              "contentType": "image",
+              "url": "https://via.placeholder.com/600x400",
+              "width": 600,
+              "height": 400
+            },
+            {
+              "contentType": "text",
+              "content": "Description de votre super projet ici."
+            },
+            {
+              "contentType": "button",
+              "label": "Voir sur GitHub",
+              "url": "https://github.com/votre-pseudo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Contact",
+      "subs": [
+        {
+          "title": "Me joindre",
+          "links": [
+            {
+              "contentType": "button",
+              "label": "Email",
+              "url": "mailto:votre@email.com"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "config": {
+    "hash": "TURQU1VQRVI=",
+    "favicon": "https://via.placeholder.com/32"
+  }
+}
