@@ -33,4 +33,4 @@ Ce dépôt contient la partie client (Frontend) d'un portfolio dynamique, hautem
 Le contenu du portfolio est chargé depuis une API backend qui renvoie un objet JSON. Vous pouvez trouver un exemple de structure dans le fichier `data.sample.json`.
 
 ---
-*Made by [Ethan]*
+*Made by Ethan*
