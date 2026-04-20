@@ -387,7 +387,7 @@ function removeSection(i) { if(confirm("Supprimer cet onglet ?")) { localData.se
 function removeSub(i, si) { localData.sections[i].subs.splice(si,1); renderAdminList(); }
 
 window.addEventListener('keydown', (e) => { 
-    if (e.altKey && e.key.toLowerCase() === 'k') {
+    if (e.altKey && e.key.toLowerCase() === 'a') {
         const overlay = document.getElementById('adminOverlay');
         if (overlay.style.display === 'flex') closeAdmin();
         else openAdmin();
