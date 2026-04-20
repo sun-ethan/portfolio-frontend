@@ -18,7 +18,7 @@ Ce dépôt contient la partie client (Frontend) d'un portfolio dynamique, hautem
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/votre-pseudo/portfolio-frontend.git
+   git clone https://github.com/sun-ethan/portfolio-frontend.git
    ```
 2. **Configurer l'URL de l'API** :
    Dans `script.js`, modifiez la constante `BACKEND_URL` :
