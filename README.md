@@ -5,7 +5,7 @@ Ce dépôt contient la partie client (Frontend) d'un portfolio dynamique, hautem
 ## ✨ Fonctionnalités
 
 - **Navigation Dynamique** : Système d'onglets et sous-onglets géré via JSON.
-- **Mode Administration** (`Alt + K`) : Éditeur visuel pour modifier le contenu en direct.
+- **Mode Administration** (`Alt + A`) : Éditeur visuel pour modifier le contenu en direct.
 - **Design Premium** : Mode sombre avec animations d'étoiles scintillantes et filantes.
 - **Glisser-Déposer** : Réorganisation intuitive des éléments via SortableJS.
 
@@ -18,7 +18,7 @@ Ce dépôt contient la partie client (Frontend) d'un portfolio dynamique, hautem
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/sun-ethan/portfolio-frontend.git
+   git clone https://github.com/votre-pseudo/portfolio-frontend.git
    ```
 2. **Configurer l'URL de l'API** :
    Dans `script.js`, modifiez la constante `BACKEND_URL` :
@@ -33,4 +33,4 @@ Ce dépôt contient la partie client (Frontend) d'un portfolio dynamique, hautem
 Le contenu du portfolio est chargé depuis une API backend qui renvoie un objet JSON. Vous pouvez trouver un exemple de structure dans le fichier `data.sample.json`.
 
 ---
-*Made by Ethan*
+*Développé avec ❤️ par [Votre Nom]*
